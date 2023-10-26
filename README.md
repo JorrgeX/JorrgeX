@@ -1,11 +1,11 @@
 <h1 align="center">Heyyy 👋, I'm Yuan-Chih Hsieh</h1>
 <h3 align="center">Currently a Ph.D. student in Applied Mathematics, Statistics, and Scientific Computation (AMSC) program at the University of Maryland</h3>
 
-- 🔭 I’m currently crafting **a mobile app with React-Native.**
-
 - 🌱 I’m currently learning **Numerical Methods for optimizing models to apply on real-world scientific problems.**
 
-- 💬 I'm interested in various fields such as **Numerical Analysis, Data Assimilation, Machine Learning.**
+- 👨‍💻 I'm interested in various fields such as **Numerical Analysis, Data Assimilation, Machine Learning.**
+
+- 💬 Meanwhile, I’m in the progress of crafting **a mobile app with React-Native.**
 
 - 📫 How to reach me **ych091600@gmail.com**
 
