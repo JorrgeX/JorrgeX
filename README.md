@@ -1,7 +1,7 @@
 <h1 align="center">Heyyy 👋, I'm Yuan-Chih Hsieh</h1>
 <h3 align="center">Currently a Ph.D. student in Applied Mathematics, Statistics, and Scientific Computation (AMSC) program at the University of Maryland</h3>
 
-- 🎓 I hold dual B.S. degrees in **Computer Science 💻 / Meteorology and Atmospheric Science ⛈️ at Penn State**
+- 🎓 I hold double B.S. degrees in **Computer Science 💻 / Meteorology and Atmospheric Science ⛈️ at Penn State**
 
 - 🌱 I’m currently learning **Numerical Methods for optimizing models to apply on real-world scientific problems**
 
