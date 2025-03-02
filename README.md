@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Numerical Methods for solving real-world physical scientific problems**
 
-- 👨‍💻 I'm interested in various fields such as **Data Assimilation, Numerical weather prediction, Numerical Analysis, , Machine Learning**
+- 👨‍💻 I'm interested in various fields such as **Data Assimilation, Numerical Weather Prediction, Numerical Analysis, , Machine Learning**
 
 - 🔧 Meanwhile, I have several experiences of crafting **mobile apps with React-Native** and other tools.
 
