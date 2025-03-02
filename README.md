@@ -3,13 +3,13 @@
 
 - 🎓 I hold double B.S. degrees in **Computer Science 💻 / Meteorology and Atmospheric Science ⛈️ at Penn State**
 
-- 🌱 I’m currently learning **Numerical Methods for optimizing models to apply on real-world scientific problems**
+- 🌱 I’m currently learning **Numerical Methods for solving real-world physical scientific problems**
 
-- 👨‍💻 I'm interested in various fields such as **Numerical Analysis, Data Assimilation, Machine Learning**
+- 👨‍💻 I'm interested in various fields such as **Data Assimilation, Numerical weather prediction, Numerical Analysis, , Machine Learning**
 
-- 🔧 Meanwhile, I’m in the progress of crafting **a mobile app with React-Native**
+- 🔧 Meanwhile, I have several experiences of crafting **mobile apps with React-Native** and other tools.
 
-- 💬 How to reach me: **ych091600@gmail.com**
+- 💬 How to reach me: **ych9@umd.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
