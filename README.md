@@ -7,7 +7,7 @@
 
 - 👨‍💻 I'm interested in various fields such as **Data Assimilation, Numerical Weather Prediction, Numerical Analysis, , Machine Learning**
 
-- 🔧 Meanwhile, I have several experiences of crafting **mobile apps with React-Native** and other tools.
+- 🔧 Meanwhile, I have several experiences of crafting **mobile apps with React-Native** and other tools
 
 - 💬 How to reach me: **ych9@umd.edu**
 
